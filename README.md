@@ -9,7 +9,7 @@ With the latest frontier AI models, the cost, effort, and level of expertise req
 
 ### Mythos Preview found a 27-year-old vulnerability in OpenBSD—which has a reputation as one of the most security-hardened operating systems in the world and is used to run firewalls and other critical infrastructure. 
 
-Ten years after the first DARPA Cyber Grand Challenge, frontier AI models are now becoming competitive with the best humans at finding and exploiting vulnerabilities. This could make cyberattacks of all kinds much more frequent and destructive. Addressing these issues is therefore an important security priority.
+Capabilities in a model like this could do harm if in the wrong hands. So, this model won't be released widely.
 
 Although the risks from AI-augmented cyberattacks are serious, there is reason for optimism: the same capabilities that make AI models dangerous in the wrong hands make them invaluable for finding and fixing flaws in important software—and for producing new software with far fewer security bugs.
 
