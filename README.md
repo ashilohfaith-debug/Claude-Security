@@ -19,4 +19,4 @@ Although the risks from AI-augmented cyberattacks are serious, there is reason f
 
 **Project Glasswing** is an important step toward giving defenders a durable advantage in the coming AI-driven era of cybersecurity. 
 
-### Anthropic has decided to partner with a number of organizations that power some of the world's most critical code to allow them to efficiently use the model to bring down risks and protect everyone.
+### Anthropic has decided to partner with a number of organizations that power some of the world's most critical code to allow them to efficiently use models like these to bring down risks and protect everyone.
