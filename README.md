@@ -5,11 +5,15 @@ Many flaws in software go unnoticed for years because finding and exploiting the
 
 With the latest frontier AI models, the cost, effort, and level of expertise required to find and exploit software vulnerabilities have all dropped dramatically. Over the past year, AI models have become increasingly effective at reading and reasoning about code. In particular, they show a striking ability to spot vulnerabilities and work out ways to exploit them. 
 
+<br/>
+
 **Claude Mythos Preview** demonstrates a leap in these cyber skills—the vulnerabilities it has spotted have, in some cases, survived decades of human review and millions of automated security tests, and the exploits it develops are increasingly sophisticated.
 
 ### Mythos Preview found a 27-year-old vulnerability in OpenBSD—which has a reputation as one of the most security-hardened operating systems in the world and is used to run firewalls and other critical infrastructure. 
 
 Capabilities in a model like this could do harm if in the wrong hands. So, this model won't be released widely.
+
+<br/>
 
 Although the risks from AI-augmented cyberattacks are serious, there is reason for optimism: the same capabilities that make AI models dangerous in the wrong hands make them invaluable for finding and fixing flaws in important software—and for producing new software with far fewer security bugs.
 
